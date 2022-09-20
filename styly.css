@@ -1,0 +1,73 @@
+
+
+table {
+    border-spacing:0;
+    border: 1px solid black;
+    width: 450px;
+}
+table, table td {
+    padding:0;
+    margin: 0;
+}
+table td {
+    border: 1px solid black;
+}
+
+.main-flex {
+    display: grid;
+    justify-content: left;
+   
+}
+header h3 {
+    padding: 20px;;
+   
+}
+
+header {
+  
+    height: 100px;
+    width: 100%;
+    top: 1;
+    background: #1d84ec;
+    color: white;
+    display: flex;
+    justify-content: left;
+}
+
+.button {
+    padding: 3px 6px;
+    font-weight: 600;
+    background: #55aaf9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: .5s;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    
+}
+
+* {
+    padding: 5px 6px;
+    font-weight: 600;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    justify-content: left;
+}
+
+div {
+    color: #0359ab;
+}
+
+a {
+    color: whitesmoke;
+   
+}
+
+th {
+    text-decoration: none;
+
+}
