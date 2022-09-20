@@ -1,2 +1,2 @@
-# Projekt-ke-zkou-ce
+# Projek ke zkoušce
 Pojištění 
